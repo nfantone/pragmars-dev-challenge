@@ -30,6 +30,6 @@ Adding some unit tests would also be a smart move and, while not required, defin
 
 > There's **no strict time limit** :hourglass:! Common sense should be the norm here.
 
-We encourage you to direct any questions about this challenge to `nicolas.fantone@pragmars.com`. Don't leave anything to chance! If you are unsure about something, drop us a line.
+We encourage you to direct any questions about this challenge to `info@pragmars.com`. Don't leave anything to chance! If you are unsure about something, drop us a line.
 
 [emoji-wp]: https://en.wikipedia.org/wiki/Emoji
