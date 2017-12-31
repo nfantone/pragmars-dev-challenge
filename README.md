@@ -14,17 +14,18 @@ We know it's not always easy to know which _emoji_ to use in every situation :to
 
 > We only care about the _perfect_ :sparkles: emoji for any given situation! So If more than one emoji :couple: matches what I need, **pick the top one**.
 
-* Also, it's always good to have a **random emoji** conveniently close to you for those circumstances where you are not too sure about what to say or write :thinking:. A clear, attractive round button should be there to give me a different one each time I pressed it down!
+* Also, it's always good to have a **random emoji** conveniently close to you for those circumstances where you are not too sure about what to say or write :thinking:. A clear, attractive button should be there to give me a different one each time I pressed it down!
 
 _That's all we need!_ :smirk:
 
 ---
 
-How you build the solution is _entirely_ up to you now. We are going to be evaluating everything, but _mostly_ we care about:
+How you build the solution is _entirely_ up to you now. We are going to be evaluating everything, but, _mostly_, we care about:
 
 * :bulb: **Creativity**. Go nuts.
 * :wrench: **Tools**. Choose what you feel most comfortable or skilled with.
 * :man_technologist: **Good practices**! Design patterns, architecture and the nitty-gritty stuff.
+* :iphone: **Mobile look and feel**. We don't care if it's pretty as long as it can be used from a phone.
 
 Adding some unit tests would also be a smart move and, while not required, definitely a plus.
 
