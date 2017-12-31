@@ -10,9 +10,9 @@ We know it's not always easy to know which _emoji_ to use in every situation :to
 
 * Or maybe show me a tall, sturdy :christmas_tree: if a say _"christmas"_, _"jolly"_, _"xmas"_, _"pine"_, _"holiday"_, _"december"_, _"noel"_ or _"yule"_. Maybe _"yuletide"_ will do, even?
 
-* What about :tada: you say? _"tada"_, _"party"_, _"popper"_, _"celebration"_, _"party hat"_!
+* What about :tada:, you say? _"tada"_, _"party"_, _"popper"_, _"celebration"_, _"party hat"_!
 
-> We only care about the _perfect_ :sparkles: emoji for any given situation! So If more than one emoji :couple: matches what I need, **pick the top one**.
+> We only care about the _perfect_ :sparkles: emoji for any given situation! So if more than one emoji :couple: matches what I need, **pick the top one**.
 
 * Also, it's always good to have a **random emoji** conveniently close to you for those circumstances where you are not too sure about what to say or write :thinking:. A clear, attractive button should be there to give me a different one each time I pressed it down!
 
