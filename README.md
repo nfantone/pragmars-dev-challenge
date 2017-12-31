@@ -2,15 +2,15 @@
 
 > Pragmars take home development test
 
-Communication hasn't been the same since [emoji][emoji-wp] :smile: came around in the early 2000s. It's time to acknowledge their importance by building a _mobile first_, Pragmars exclusive, _emoji database app_!
+Communication hasn't been the same since [emoji][emoji-wp] :+1: came around in the early 2000s. It's time to acknowledge their importance by building a _mobile first_, Pragmars exclusive, _emoji database app_!
 
-We know it's not always easy to know which _emoji_ to use in every situation :tomato:. That's why we'd love the help of a tiny web application that could tell us **which is the right emoji to use** given some descriptive **keywords**. At least [Emoji 1.0](https://emojipedia.org/emoji-1.0/) should be supported.
+We know it's not always easy to know which _emoji_ to use in every situation :tomato:. That's why we'd love the help of a tiny web application that could tell us **which is the right emoji to use** given some descriptive **keywords**. At least [Emoji 1.0](https://emojipedia.org/emoji-1.0/) should be supported. English language would do.
 
-* It'd be handy dandy if this application could, say, return me a big :smile: if I were to write down _"smile"_ or _"happy"_ or even _"joy"_, _"content"_, _"smiling"_, _"willing"_, _"glad"_, _"pleased"_, _"delighted"_, _"merry"_!
+* :smile: It'd be handy dandy if this application could, say, return me a big **smile** if I were to write down _"smile"_ or _"happy"_ or even _"joy"_, _"content"_, _"smiling"_, _"willing"_, _"glad"_, _"pleased"_, _"delighted"_, _"merry"_!
 
-* Or maybe show me a tall, sturdy :christmas_tree: if a say _"christmas"_, _"jolly"_, _"xmas"_, _"pine"_, _"holiday"_, _"december"_, _"noel"_ or _"yule"_. Maybe _"yuletide"_ will do, even?
+* :christmas_tree: Or maybe show me a tall, sturdy **christmas tree** if I were to say _"christmas"_, _"jolly"_, _"xmas"_, _"pine"_, _"holiday"_, _"december"_, _"noel"_ or _"yule"_. Maybe _"yuletide"_ will do, even?
 
-* What about :tada:, you say? _"tada"_, _"party"_, _"popper"_, _"celebration"_, _"party hat"_!
+* :tada: What about a **party popper**, you say? _"tada"_, _"party"_, _"popper"_, _"celebration"_, _"party hat"_!
 
 > We only care about the _perfect_ :sparkles: emoji for any given situation! So if more than one emoji :couple: matches what I need, **pick the top one**.
 
