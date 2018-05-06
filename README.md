@@ -16,6 +16,8 @@ We know it's not always easy to know which _emoji_ to use in every situation :to
 
 * Also, it's always good to have a **random emoji** conveniently close to you for those circumstances where you are not too sure about what to say or write :thinking:. A clear, attractive button should be there to give us a different one each time we pressed it down!
 
+* Finally, we would like to know **how many times a particular emoji has been shown to users** (any user) so any time someone uses the app and searches for a particular emoji or gets a random one, we can tell how many global hits it has had before. Keeping track of emoji popularity should be simple!
+
 _That's all we need!_ :smirk:
 
 ---
